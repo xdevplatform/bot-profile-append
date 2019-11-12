@@ -1,10 +1,11 @@
 # Profile bot append
 
-A simple script designed to append the bio of your bots with #TwitterBot.
+A simple Python script designed to append the bio of your bots with #TwitterBot.
 
 ## Getting Started
 
-You will need to update the `secrets.yaml` with the keys and tokens of your bots.  
+You will need to update the `secrets.yaml` with the keys and tokens of your bots. After you update the yaml file, run `python append.py` in your command line.
+
 
 ## Support
 
