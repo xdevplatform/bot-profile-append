@@ -1,4 +1,4 @@
-# Profile bot append
+# Bot profile append
 
 A simple Python script designed to append the bios of your bots with #TwitterBot.
 
