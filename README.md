@@ -9,7 +9,7 @@ You will need to update the `secrets.yaml` with the keys and tokens of your bots
 
 ## Support
 
-Create a [new issue](https://github.com/twitterdev/labs-sample-code/issues) on GitHub.
+Create a [new issue](https://github.com/twitterdev/bot-profile-append/issues) on GitHub.
 
 ## Contributing
 
