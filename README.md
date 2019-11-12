@@ -18,7 +18,7 @@ We feel that a welcoming community is important and we ask that you follow Twitt
 in all interactions with the community.
 
 ## Security Issues?
-Please report sensitive security issues via Twitter's bug-bounty program (https://hackerone.com/twitter) rather than GitHub.
+Please report sensitive security issues via [Twitter's bug-bounty program](https://hackerone.com/twitter) rather than GitHub.
 
 ## License
 
