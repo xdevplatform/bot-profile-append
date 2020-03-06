@@ -4,7 +4,7 @@ A simple Python script designed to append the profiles of your bots with #Twitte
 
 ## Getting Started
 
-You will need to update the `secrets.yaml` with the keys and tokens of your bots. After you update the yaml file, run `python append.py` in your command line. 
+You will need to update the `secrets.yaml` with the keys and tokens of your bots. After you update the yaml file, run `python append.py` in your terminal. 
 
 Be sure to add your `secrets.yaml` to your `.gitingore` and check out [our guide on securing keys and tokens](https://developer.twitter.com/en/docs/basics/authentication/guides/securing-keys-and-tokens).
 
