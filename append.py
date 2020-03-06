@@ -4,7 +4,7 @@ import yaml
 
 def load_data():
     f = open("secrets.yaml")
-    community = yaml.load(f)
+    community = yaml.safe_load(f)
     process = community["bots"]
     return process
 
