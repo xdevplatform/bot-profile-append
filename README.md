@@ -1,6 +1,6 @@
 # Bot profile append
 
-A simple Python script designed to append the profiles of your bots with #TwitterBot.
+A simple Python script designed to append the profile bios of your bots with #TwitterBot.
 
 ## Getting Started
 
