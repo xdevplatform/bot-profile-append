@@ -1,6 +1,6 @@
 # Bot profile append
 
-A simple Python script designed to append the profile bios of your bots with #TwitterBot. Be sure to check our [blog post](https://blog.twitter.com/developer/en_us/topics/community/2020/twitter_developer_policy_update.html) about our recent updates to our developer policy.
+A simple Python script designed to append the profile bios of your bots with #TwitterBot. Check out our [blog post](https://blog.twitter.com/developer/en_us/topics/community/2020/twitter_developer_policy_update.html) to learn more about our recent updates to our developer policy.
 
 ## Getting Started
 
