@@ -8,6 +8,8 @@ You will need to update the `secrets.yaml` with the keys and tokens of your bots
 
 Be sure to add your `secrets.yaml` to your `.gitingore` and check out [our guide on securing keys and tokens](https://developer.twitter.com/en/docs/basics/authentication/guides/securing-keys-and-tokens).
 
+[There is a blog post](https://blog.twitter.com/developer/en_us/topics/tips/2020/how-to-quickly-update-your-bot-profile-bio.html) which walks you through step by step how to use this code.
+
 ## Support
 
 Create a [new issue](https://github.com/twitterdev/bot-profile-append/issues) on GitHub.
